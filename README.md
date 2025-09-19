@@ -165,3 +165,7 @@ The scripts use LRU caches that persist during the script's lifetime. For long-r
 ## Signature Compatibility
 
 All function signatures remain unchanged to maintain compatibility with existing Laravel integration. Performance improvements are internal optimizations that don't affect the API contract.
+
+## License
+
+This project is open-sourced under the [MIT license](./LICENSE).
